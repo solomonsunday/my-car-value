@@ -53,3 +53,6 @@ GET  http://localhost:3000/auth/colors/green
 
 ### Get the color
 GET  http://localhost:3000/auth/colors
+
+
+

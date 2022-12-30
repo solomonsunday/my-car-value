@@ -1,0 +1,15 @@
+### create a report for your sold car
+
+POST http://localhost:3000/reports
+Content-Type: application/json
+
+{
+  "make": "Honder",
+  "model": "accord",
+  "year": 2021,
+  "mileage": 6000,
+    "lng": 0,
+  "lat": 0,
+    "price": 20000
+
+}
